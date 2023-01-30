@@ -12,6 +12,6 @@ spring.h2.console.settings.web-allow-others=false
 spring.jpa.hibernate.ddl-auto=none
 
 spring.cloud.config.enabled= false
-spring.jpa.defer-datasource-initialization: true
+spring.jpa.defer-datasource-initialization= true
 
 
